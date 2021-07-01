@@ -1,5 +1,5 @@
 ---
-title: Theme customizations
+title: Theme customizations.bb
 date: 2020-10-15T12:23:39.598Z
 author: Jane Doe
 summary: Modify Fernfolio to meet your needs
