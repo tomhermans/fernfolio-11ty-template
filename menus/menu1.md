@@ -7,3 +7,7 @@ tags:
   - menu
 ---
 gemarineerde zalmforel - bloemkool - augurk
+
+* gebakken eendenlever - rabarber€ 21
+* aspergesoep - vanille - tuinkers€ 13
+* buikspek - hoisin - spitskool€ 16
