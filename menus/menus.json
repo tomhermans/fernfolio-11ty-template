@@ -1,0 +1,8 @@
+{
+  "layout": "layouts/menu.njk",
+  "permalink": "menus/{{ title | slug }}/index.html",
+  "author": "Anonymous",
+  "tags": [
+    "menu"
+  ]
+}

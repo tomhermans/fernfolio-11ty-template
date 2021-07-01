@@ -24,6 +24,11 @@ section: home
   </div>
 
   <hr>
+  <h2>Menu's</h2>
+  {% set menulist = collections.menu %}
+  {% include "components/menulist.njk" %}
+
+  <hr>
   <h2>Projects</h2>
   {% set projectlist = collections.project %}
   {% include "components/projectlist.njk" %}
