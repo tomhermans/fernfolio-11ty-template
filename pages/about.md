@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About This
 metaDescription: The super simple portfolio template built with Eleventy and Netlify CMS
 subtitle: ""
 date: 2017-01-01T00:00:00.000Z
@@ -8,7 +8,7 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Why ?
 
 I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
 
