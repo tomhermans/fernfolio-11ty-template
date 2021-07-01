@@ -1,8 +1,8 @@
 ---
-title: This post contains a code sample
+title: This post contains a code sample. Edited.
 metaDescription: Add code samples to your markdown files
 date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
+author: John Smith
 summary: Add code samples to your markdown files
 tags:
   - tech
